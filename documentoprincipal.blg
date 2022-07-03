@@ -1,0 +1,76 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: documentoprincipal.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: Prologo/Declaracion.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Prologo/Comiteevaluador.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: Prologo/Resumen.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Capitulo1/generalidades.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: Capitulo2/marco_teorico.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Capitulo3/modelado.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: Capitulo4/modelado2.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: Capitulo5/artefaco.aux
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+A level-1 auxiliary file: Capitulo6/conclusiones.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: Anexos/Anexo01/anexo.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apalike.bst
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+Reallocating 'name_of_file' (item size: 1) to 27 items.
+Database file #1: Bibliografia/referencias01.bib
+Database file #2: Bibliografia/referencias02.bib
+Warning--empty journal in Atlantic2019
+Warning--empty journal in Hollingsworth1995
+Warning--empty publisher in ISO9000
+Warning--there's a number but no volume in lopez2013bpmn
+Warning--empty journal in Microsoft2017
+You've used 20 entries,
+            1935 wiz_defined-function locations,
+            590 strings with 6779 characters,
+and the built_in function-call counts, 6418 in all, are:
+= -- 627
+> -- 216
+< -- 16
++ -- 68
+- -- 68
+* -- 481
+:= -- 1165
+add.period$ -- 51
+call.type$ -- 20
+change.case$ -- 130
+chr.to.int$ -- 20
+cite$ -- 25
+duplicate$ -- 272
+empty$ -- 455
+format.name$ -- 88
+if$ -- 1231
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 19
+newline$ -- 94
+num.names$ -- 60
+pop$ -- 125
+preamble$ -- 1
+purify$ -- 134
+quote$ -- 0
+skip$ -- 220
+stack$ -- 0
+substring$ -- 397
+swap$ -- 28
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 112
+warning$ -- 5
+while$ -- 56
+width$ -- 0
+write$ -- 231
+(There were 5 warnings)
